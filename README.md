@@ -34,7 +34,7 @@ Application was written purely for practice only, (inspiration was taken from bu
 Im not planning to come back to this repo very regularly to expand this application, since this project was just for learning purposes only. As it was said in one book - i need to write code, a lot. So, for now im just making new projects and hopefully they will be better and better.
 ## Screenshots
 
-[![H4Hk7un.png](https://iili.io/H4Hk7un.png)](https://freeimage.host/pl)
-[![H4HkYjs.png](https://iili.io/H4HkYjs.png)](https://freeimage.host/pl)
-[![H4HkaZG.png](https://iili.io/H4HkaZG.png)](https://freeimage.host/pl)
+[![H4dftkv.png](https://iili.io/H4dftkv.png)](https://freeimage.host/pl)
+[![H4dfmIp.png](https://iili.io/H4dfmIp.png)](https://freeimage.host/pl)
+[![H4dfDpR.png](https://iili.io/H4dfDpR.png)](https://freeimage.host/pl)
 
